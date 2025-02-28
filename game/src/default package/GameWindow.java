@@ -1,7 +1,7 @@
 	/**************************************************************
 	 * Joseph Coats
 	 * QU - Infinity Games
-	 * Example 1: "Pong" - based on Atari PONG (1972)
+	 * Example 2: "Memory Cards"
 	 * Resources: 
 	 * 		YouTube, BrandonioProductions, "Making a Platformer With Java"
 	 **************************************************************/	
